@@ -1,0 +1,16 @@
+.heading{
+    color: #FFF1DB;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+  }
+  .head-cont{ 
+    height: 100px ;
+    width: 100%;
+    background-color: #EF5A6F;
+    caret-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
